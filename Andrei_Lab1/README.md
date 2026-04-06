@@ -8,6 +8,6 @@ How to create a git repository
 How to commit changes and push
 How to collaborate using Github
 
-## Team members
+## Team member
 Andrei Filho
 Answley Watson
