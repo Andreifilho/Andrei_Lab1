@@ -11,3 +11,5 @@ How to collaborate using Github
 ## Team member
 Andrei Filho
 Answley Watson
+
+## Changes Made by Andrei Filho: Added a feature greeting.
