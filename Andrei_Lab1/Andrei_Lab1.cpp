@@ -12,13 +12,11 @@ int main()
 	cout << "Lab 1 completed on 4/8/262!" << endl;
 	cout << "Feature by Andrei Filho: Branching is awesome!" << endl;
 	#include <iostream>
-using namespace std;
-
-bool isPass(int marks) {
+	bool isPass(int marks) {
     return marks >= 50;
 }
 
-int main() {
+	int main() {
     int marks;
     cin >> marks;
 
