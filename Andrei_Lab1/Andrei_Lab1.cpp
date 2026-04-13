@@ -4,19 +4,13 @@
 //
 
 #include <iostream>
-using namespace std;	
-int main()
-{
-	cout << "Hello from Andrei Filho! This is my first Git commit.";
-	cout << "Git makes collaboration easy!" << endl;
-	cout << "Lab 1 completed on 4/8/262!" << endl;
-	cout << "Feature by Andrei Filho: Branching is awesome!" << endl;
-	#include <iostream>
-	bool isPass(int marks) {
+using namespace std;
+
+bool isPass(int marks) {
     return marks >= 50;
 }
 
-	int main() {
+int main() {
     int marks;
     cin >> marks;
 
@@ -28,8 +22,6 @@ int main()
 
     return 0;
 }
-}
-0
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
