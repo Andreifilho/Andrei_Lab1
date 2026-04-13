@@ -11,6 +11,25 @@ int main()
 	cout << "Git makes collaboration easy!" << endl;
 	cout << "Lab 1 completed on 4/8/262!" << endl;
 	cout << "Feature by Andrei Filho: Branching is awesome!" << endl;
+	#include <iostream>
+using namespace std;
+
+bool isPass(int marks) {
+    return marks >= 50;
+}
+
+int main() {
+    int marks;
+    cin >> marks;
+
+    if (isPass(marks)) {
+        cout << "Pass";
+    } else {
+        cout << "Fail";
+    }
+
+    return 0;
+}
 }
 0
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
