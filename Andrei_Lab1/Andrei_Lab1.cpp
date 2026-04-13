@@ -12,8 +12,31 @@ int main()
 	cout << "Lab 1 completed on 4/8/262!" << endl;
 	cout << "Feature by Andrei Filho: Branching is awesome!" << endl;
 	cout << "Student ID: [Your ID] | Name: Andrei Filho" << endl;
+    //Feature by Ansley: grade calculator
+    int grade;
+    cout << "Enter your grade: ";
+    cin >> grade;
+    if (grade >= 90)
+    {
+        cout << "Your grade is an A" << endl;
+    }
+    else if (grade >= 80 && grade <= 89)
+    {
+        cout << "Your grade is a B" << endl;
+    }
+    else if (grade >= 70 && grade <= 79)
+    {
+        cout << "Your grade is a C" << endl;
+    }
+    else if (grade >= 60 && grade <= 69)
+    {
+        cout << "Your grade is a D" << endl;
+    }
+    else
+    {
+        cout << "Your grade is a F" << endl;
+    }
 }
-0
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
