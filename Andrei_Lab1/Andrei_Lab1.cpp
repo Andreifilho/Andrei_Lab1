@@ -11,8 +11,9 @@ int main()
 	cout << "Git makes collaboration easy!" << endl;
 	cout << "Lab 1 completed on 4/8/262!" << endl;
 	cout << "Feature by Andrei Filho: Branching is awesome!" << endl;
+	cout << "Student ID: [Your ID] | Name: Andrei Filho" << endl;
 }
-
+0
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
